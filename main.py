@@ -1,6 +1,2 @@
-def main():
-    print("test");
-
-
-if __name__ == "__main__":
-    main();
+def test_add(x,y):
+    return x + y
